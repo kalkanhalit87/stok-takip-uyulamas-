@@ -1,9 +1,0 @@
-• Proje; personeller ile ilgili ekleme, silme, güncelleme ve listeleme gibi işlemleri içerecektir. İşlem 
-yapacak personel, kullanıcı adı ve şifresi ile sisteme giriş yapmalıdır.
-• Sistemde ürünlerle ilgili ekleme, silme, güncelleme, listeleme ve arama işlemleri yapılacaktır.
-• Sistemde tedarikçiler ve müşteriler kayıtlı olacaktır. Bunlarla ilgili ekleme, silme, güncelleme ve listeleme işlemleri yapılacaktır.
-• Sistemde ürün satışı ve satışı iptal etme işlemleri olacak, ürünlerin stok takibi yapılacaktır.
-.sayfa 75 müşteri hizmetleri işlemleri 
-.syf 79 
-.kullanıcı login 83
-syf 85.
