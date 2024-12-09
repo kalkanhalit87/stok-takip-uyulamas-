@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMP12A_1051_StokTakipProgram", "AMP12A_922_StokTakipProgram\AMP12A_1051_StokTakipProgram.csproj", "{B9A996CB-E574-4325-BBFE-5A0B2921B14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A996CB-E574-4325-BBFE-5A0B2921B14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A996CB-E574-4325-BBFE-5A0B2921B14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A996CB-E574-4325-BBFE-5A0B2921B14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A996CB-E574-4325-BBFE-5A0B2921B14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11AC0A1D-0E98-4C41-9207-034E03C25E5C}
+	EndGlobalSection
+EndGlobal
